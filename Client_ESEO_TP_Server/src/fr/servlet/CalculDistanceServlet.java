@@ -58,7 +58,7 @@ public class CalculDistanceServlet extends HttpServlet {
 		String longitude2 = villes2[0].getLongitude();
 		session.setAttribute("nomVille2", nomVille2);
 		
-		//Calcul de distance entre 2 villes
+		//Calcul de distance entre deux villes
 		
 		float lat_a=Float.parseFloat(latitude1);
 		float lng_a=Float.parseFloat(longitude1);
