@@ -8,7 +8,6 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Liste villes</title>
-<link rel="stylesheet" href="villes.css">
 <link rel="stylesheet" href="theme.css">
 </head>
 <body>

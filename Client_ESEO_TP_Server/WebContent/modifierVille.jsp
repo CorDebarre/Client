@@ -7,6 +7,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Modifier une ville</title>
+<link rel="stylesheet" href="theme.css">
 </head>
 <body>
 	<h1>Modifier une ville</h1>

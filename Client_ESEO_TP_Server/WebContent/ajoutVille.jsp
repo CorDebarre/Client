@@ -9,6 +9,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Ville ajoutée</title>
+<link rel="stylesheet" href="theme.css">
 </head>
 <body>
 	La ville <%= session.getAttribute("nomCommune") %> a bien été créée.

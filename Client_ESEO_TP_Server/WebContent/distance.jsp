@@ -7,6 +7,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Calcul de distances entre 2 villes</title>
+<link rel="stylesheet" href="theme.css">
 </head>
 <body>
 	<h1>Choisissez deux villes</h1>

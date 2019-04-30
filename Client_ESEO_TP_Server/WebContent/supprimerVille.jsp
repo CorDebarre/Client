@@ -7,6 +7,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Supprimer une ville</title>
+<link rel="stylesheet" href="theme.css">
 </head>
 <body>
 	<h1>Supprimer une ville</h1>

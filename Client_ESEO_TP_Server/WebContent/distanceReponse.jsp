@@ -5,6 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Distance calculée</title>
+<link rel="stylesheet" href="theme.css">
 </head>
 <body>
 	La distance entre <%= session.getAttribute("nomVille1") %> et <%= session.getAttribute("nomVille2") %> est de <%= session.getAttribute("distance") %> kilomètres.

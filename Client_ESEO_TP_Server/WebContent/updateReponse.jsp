@@ -10,6 +10,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Update done</title>
+<link rel="stylesheet" href="theme.css">
 </head>
 <body>
 	La ville <%= session.getAttribute("villeNom") %> a bien été modifiée.
